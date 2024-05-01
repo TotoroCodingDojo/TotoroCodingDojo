@@ -1,5 +1,3 @@
-> Computers are good at following instructions, but not at reading your mind. 
-
 <h1 align="center">
   <a href="https://shivanshu-semwal.github.io">Portfolio</a>
 </h1>
@@ -14,3 +12,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=TotoroCodingDojo&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
+
+---
+
+> Computers are good at following instructions, but not at reading your mind. 
